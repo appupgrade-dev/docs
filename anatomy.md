@@ -21,13 +21,17 @@ Click on `Submit` button and project will be created.
 <img alt="Create Project-Project Screen" src="https://raw.githubusercontent.com/appupgrade-dev/docs/main/images/create-project-project-screen.png"/>
 
 ### Version
-Version are the record you create to make an app marked for the upgrade. Let's say in your project you have an app `Wallpaper App`. You have lauched a new and improved version `1.0.1` with the some fixes, and now the old app `1.0.0` is now longer working because you have breaking API changes. If you had already integrated the App Upgrade solution in `1.0.0` now you can click on the project and you will be seeing an empty version page.
+Version are the record you create to make an app marked for the upgrade. Let's say in your project you have an app `Wallpaper App`. You have lauched a new and improved version `1.0.1` with the some fixes, and now the old app `1.0.0` is now longer working because you have breaking API changes. 
+
+?> If you had already integrated the App Upgrade solution in `1.0.0` and new app version `1.0.1` is live on playstore or app store. You can force users who are using 1.0.0 to upgrade to `1.0.1` by creating a new version entry for `1.0.0`
+
+Click on the project and you will be seeing an empty version page.
 
 <img alt="Create Version-Empty Screen" src="https://raw.githubusercontent.com/appupgrade-dev/docs/main/images/create-version-empty-screen.png"/>
 
 Click on the `+New Version` button to create a new app version marked for the upgrade. Provide the following details.
 - App Name: Name of the App
-- App Version: Version of the app you want to mark for update. For example: 1.0.0
+- App Version: Version of the app you want to mark for update. For example: 1.0.0 // This is the version you want user to force upgrade to a newer version.
 - Platform: App platform example: android or iOS
 - Environment: Environment in which app is running example: development, staging or production
 - Message: An optional message which you want to show to the user, when user will be alerted for the force update.
