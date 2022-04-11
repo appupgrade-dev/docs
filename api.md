@@ -37,7 +37,7 @@ curl --location --request GET 'https://appupgrade.dev/api/v1/versions/check?app_
     "found": true,
     "forceUpgrade": true,
     "query": {
-        "app_name": "Wallpaoer App",
+        "app_name": "Wallpaper App",
         "app_version": "1.0.0",
         "platform": "android",
         "environment": "production"

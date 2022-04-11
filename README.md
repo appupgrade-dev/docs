@@ -29,3 +29,5 @@ The main feature! Yes you will be able to force users to upgrade to the newest v
 Yes, you read it correct. Instead of showing a boring update message which users tends to ignore. You can set a custom message for your users to see why you are asking them to update the message. Which will increase the number of users who will prefer to update.
 
 App Upgrade has neccessary infrastructure and features to implement and manage versions.
+
+In the next chapter let's take a overview of [Anatomy of App Upgrade](anatomy.md)

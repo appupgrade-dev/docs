@@ -42,3 +42,5 @@ Click on the `+New Version` button to create a new app version marked for the up
 After providing the value click on `Submit` button and version will be created.
 
 <img alt="Create Version-Version Screen" src="https://raw.githubusercontent.com/appupgrade-dev/docs/main/images/create-version-version-screen.png"/>
+
+In the next chapter let's take look how you can integrate your app with App Upgrade. [Integration with App Upgrade](integration.md)
