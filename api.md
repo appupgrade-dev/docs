@@ -12,14 +12,14 @@ This API is used for checking the app version is marked for upgrade or not.
 
 #### Request Headers
 | Header Name   |      Description      |  Example |
-|----------|:-------------:|------:|
+|:----------|:-------------|:------|
 | x-api-key |  x-api-key for your project | $YjE0MjJiZTMtMmU0Yi00NjAzLThkY2MtNzE1NzJiOTYyOTIy |
 
 ?> You can find the x-api-key in Accounts tab.
 
 #### Response Headers
 | Param Name   |      Description      |  Example |
-|----------|:-------------:|------:|
+|:----------|:-------------|:------|
 | app_name |  You app name | Wallpaper App |
 | app_version |  You app name | 1.0.0 |
 | platform |  You platform name | android |
