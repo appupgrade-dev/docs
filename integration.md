@@ -1,3 +1,5 @@
+## Integration with App Upgrade
+
 You will need to integrate your app with the App Upgrade service. The app will check with the service whether it needs to be updated or not.
 
 ### How it's done?
