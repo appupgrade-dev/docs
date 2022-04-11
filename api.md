@@ -2,7 +2,7 @@
 
 If you want to integrate your app with App Upgrade using API. You will need to call just one API.
 
-<img src="https://raw.githubusercontent.com/appupgrade-dev/docs/main/images/api-sequence.svg">
+<img src="https://raw.githubusercontent.com/appupgrade-dev/docs/main/images/api-sequence.png">
 
 ### API Contract:
 
