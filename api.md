@@ -20,14 +20,14 @@ This API is used for checking the app version is marked for upgrade or not.
 #### Response Headers
 | Param Name   |      Description      |  Example |
 |:----------|:-------------|:------|
-| app_name |  You app name | Wallpaper App |
+| app_name |  You app name | Wallpaper app |
 | app_version |  You app name | 1.0.0 |
 | platform |  You platform name | android |
 | environment |  You environment name | production |
 
 #### Request Example:
 ```curl
-curl --location --request GET 'https://appupgrade.dev/api/v1/versions/check?app_name=Translator User App&app_version=1.0.0&platform=android&environment=production' \
+curl --location --request GET 'https://appupgrade.dev/api/v1/versions/check?app_name=Wallpaper app&app_version=1.0.0&platform=android&environment=production' \
 --header 'x-api-key: MDNmNmZkNDEtNmNkMi00NzY3LThjOWEtYWYxMGFjZWQ0ZjI2'
 ```
 
@@ -37,7 +37,7 @@ curl --location --request GET 'https://appupgrade.dev/api/v1/versions/check?app_
     "found": true,
     "forceUpgrade": true,
     "query": {
-        "app_name": "Wallpaper App",
+        "app_name": "Wallpaper app",
         "app_version": "1.0.0",
         "platform": "android",
         "environment": "production"
