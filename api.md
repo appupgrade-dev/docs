@@ -13,7 +13,7 @@ This API is used for checking the app version is marked for upgrade or not.
 #### Request Headers
 | Header Name   |      Description      |  Example |
 |:----------|:-------------|:------|
-| x-api-key |  x-api-key for your project | $YjE0MjJiZTMtMmU0Yi00NjAzLThkY2MtNzE1NzJiOTYyOTIy |
+| x-api-key |  x-api-key for your project | MDNmNmZkNDEtNmNkMi00NzY3LThjOWEtYWYxMGFjZWQ0ZjI2 |
 
 ?> You can find the x-api-key in Accounts tab.
 
@@ -28,7 +28,7 @@ This API is used for checking the app version is marked for upgrade or not.
 #### Request Example:
 ```curl
 curl --location --request GET 'https://appupgrade.dev/api/v1/versions/check?app_name=Translator User App&app_version=1.0.0&platform=android&environment=production' \
---header 'x-api-key: ZmVjZDkzMGEtYjdhYi00ZjBmLTk3NWItNTA0NDEyNTFiN2Zi'
+--header 'x-api-key: MDNmNmZkNDEtNmNkMi00NzY3LThjOWEtYWYxMGFjZWQ0ZjI2'
 ```
 
 #### Response Example:
