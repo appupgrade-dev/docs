@@ -6,7 +6,7 @@ You can integrate your app with App Upgrade SDK using the SDK. Integrating with 
 
 ### Availabel SDKs.
 - [Flutter](https://pub.dev/packages/app_upgrade_flutter_sdk)
-- React Native [Coming Soon]
+- [React Native](https://www.npmjs.com/package/app-upgrade-react-native-sdk)
 - Android [Coming Soon]
 - iOS [Coming Soon]
 
