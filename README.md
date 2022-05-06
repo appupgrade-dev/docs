@@ -1,6 +1,6 @@
 # Introduction
 
-App Upgrade is a service to effectively force users to upgrade your mobile app or let them know that there is new and improved version is available.
+App Upgrade acts as a **Upgrade-Wall**. It is a service to effectively force users to upgrade your mobile app or let them know that there is new and improved version is available.
 
 When you publish your app's new version to the playstore or the app store. User may get the updates automatically and app will be updated in the background if the auto app update setting is on in users mobile.
 This is the best case scenario for you.
