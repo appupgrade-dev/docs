@@ -1,6 +1,6 @@
 # Introduction
 
-App Upgrade acts as a **Upgrade-Wall**. It is a service to effectively force users to upgrade your mobile app or let them know that there is new and improved version is available.
+App Upgrade acts as a [**Upgrade-Wall**](https://medium.com/@appupgrade.dev/what-is-upgrade-wall-3e047d8f1a4a) for your app. It is a service to effectively force users to upgrade your mobile app or let them know that there is new and improved version is available.
 
 When you publish your app's new version to the playstore or the app store. User may get the updates automatically and app will be updated in the background if the auto app update setting is on in users mobile.
 This is the best case scenario for you.
@@ -27,6 +27,12 @@ The main feature! Yes you will be able to force users to upgrade to the newest v
 
 - #### Custom message.
 Yes, you read it correct. Instead of showing a boring update message which users tends to ignore. You can set a custom message for your users to see why you are asking them to update the message. Which will increase the number of users who will prefer to update.
+
+- #### Easy to use!
+Once integrated the dashboard and workflow is very easy to work with. Non-tech people can also use it. Product managers/owners can use it for some urgent updates without having to wait for the developer intervention.
+
+- #### Make testing faster!
+Testing team/Testers can create new version and check the upgrade-wall without asking for developers to create/update/remove versions in firestore/databases and dealing with json. Sometimes even creating with API is time consuming.
 
 App Upgrade has neccessary infrastructure and features to implement and manage versions.
 

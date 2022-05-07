@@ -3,7 +3,7 @@
 ### Where do I find the x-api-key?
 
 You can find x-api-key for your project in your accounts page.
-1. Click on the user icon on nav bar.
+1. Click on the user icon/Accounts tab on nav bar.
 2. If you have a project created you will see the project detail along with x-api-key.
 
 <img alt="Create Project-Empty Screen" src="https://raw.githubusercontent.com/appupgrade-dev/docs/main/images/x-api-key.png"/>
