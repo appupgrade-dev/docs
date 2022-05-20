@@ -8,5 +8,12 @@ You can find x-api-key for your project in your accounts page.
 
 <img alt="Create Project-Empty Screen" src="https://raw.githubusercontent.com/appupgrade-dev/docs/main/images/x-api-key.png"/>
 
+
+### What if we need for both Android & iOS, do I need to create separate versions?
+
+Yes if you want to use App Upgrade for both your Android and iOE apps. Integrate App Upgrade with both of your apps and then create separate versions for both the apps. One for the Android and one for iOS.
+
+
+
 > If you have any question not mentioned here. Feel free to raise a question here.
 [Ask a question](https://docs.google.com/forms/d/e/1FAIpQLSfPuhUU39SY_0sYNQAvXlj7Da2YN-6bQYj7LXFoRC2zrqTSjA/viewform?usp=sf_link)
