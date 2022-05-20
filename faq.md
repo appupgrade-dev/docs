@@ -11,7 +11,7 @@ You can find x-api-key for your project in your accounts page.
 
 ### What if we need for both Android & iOS, do I need to create separate versions?
 
-Yes if you want to use App Upgrade for both your Android and iOE apps. Integrate App Upgrade with both of your apps and then create separate versions for both the apps. One for the Android and one for iOS.
+Yes, if you want to use App Upgrade for both your Android and iOS apps. Integrate App Upgrade with both of your apps and then create separate versions for both the apps. One for the Android and one for iOS.
 
 
 
