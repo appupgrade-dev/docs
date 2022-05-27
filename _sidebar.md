@@ -6,6 +6,7 @@
 * [Integrate with App](integration.md)
     * [SDK](sdk.md)
     * [API](api.md)
+* [API Reference](api_reference.md)    
 * [Status Page](status.md)
 * [FAQ](faq.md)
 * [Feedback](feedback.md)
