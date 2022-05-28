@@ -5,9 +5,23 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Commands](#commands)
+
 # Installation
+Install via NPM
 ```sh-session
 $ npm install -g appupgrade-cli
+```
+
+Install via Docker image
+```sh-session
+$ docker pull appupgrade/appupgrade-cli
+```
+
+```sh-session
+Running the image:
+
+$ docker run appupgrade/appupgrade-cli --help
+$ docker run appupgrade/appupgrade-cli <COMMAND> <SUBCOMMAND> <ARGS>
 ```
 
 # Usage
