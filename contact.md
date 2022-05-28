@@ -1,4 +1,4 @@
-### Contact & Support
+## Contact & Support
 
 We would love to connect with you.
 

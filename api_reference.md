@@ -1,4 +1,4 @@
-### App Upgrade::API Reference
+## App Upgrade: API Reference
 
 You can find the App Upgrade API Reference from here.
 

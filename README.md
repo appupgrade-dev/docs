@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 App Upgrade acts as a [**Upgrade-Wall**](https://medium.com/@appupgrade.dev/what-is-upgrade-wall-3e047d8f1a4a) for your app. It is a service to effectively force users to upgrade your mobile app or let them know that there is new and improved version is available.
 
