@@ -34,6 +34,9 @@ Once integrated the dashboard and workflow is very easy to work with. Non-tech p
 - #### Make testing faster!
 Testing team/Testers can create new version and check the upgrade-wall without asking for developers to create/update/remove versions in firestore/databases and dealing with json. Sometimes even creating with API is time consuming.
 
+- #### Want to integrate in your CI/CD pipeline?
+You can integrate App Upgrade in your CI/CD pipeline with our powerful CLI to create version in build process.
+
 App Upgrade has neccessary infrastructure and features to implement and manage versions.
 
 In the next chapter let's take a overview of [Anatomy of App Upgrade](anatomy.md)
