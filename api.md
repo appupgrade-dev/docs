@@ -17,7 +17,7 @@ This API is used for checking the app version is marked for upgrade or not.
 
 ?> You can find the x-api-key in Accounts tab.
 
-#### Response Headers
+#### Request Params
 | Param Name   |      Description      |  Example |
 |:----------|:-------------|:------|
 | app_name |  You app name | Wallpaper app |
