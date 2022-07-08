@@ -13,6 +13,8 @@ You can find x-api-key for your project in your accounts page.
 
 Yes, if you want to use App Upgrade for both your Android and iOS apps. Integrate App Upgrade with both of your apps and then create separate versions for both the apps. One for the Android and one for iOS.
 
+<img alt="" src="https://raw.githubusercontent.com/appupgrade-dev/docs/main/images/versions-ios-android.png"/>
+
 
 
 > If you have any question not mentioned here. Feel free to raise a question here.
